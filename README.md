@@ -38,14 +38,10 @@
 
 ---
 
-### 📊 GitHub Activity Stats:
+### 📈 GitHub Contribution Graph:
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Daz-Vo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daz-Vo Github Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daz-Vo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daz-Vo&theme=tokyonight&hide_border=true" alt="Daz-Vo Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daz-Vo&theme=tokyo-night&hide_border=true&bg_color=1A1B26" alt="Daz-Vo's Activity Graph" />
 </p>
 
 ---
